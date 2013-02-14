@@ -1,0 +1,14 @@
+{
+    "name": "node-udp-game-platform",
+    "version": "0.0.0",
+    "description": "Node UDP Game Platform",
+    "dependencies": {
+        "underscore": "*" 
+    },
+    "devDependencies": {
+        "nodeunit": ">=0.7.x"
+    },
+    "engines": { 
+        "node": ">=0.8.x" 
+    }
+}
